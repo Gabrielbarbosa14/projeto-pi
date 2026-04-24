@@ -1,4 +1,4 @@
-/*const cards = document.querySelectorAll(".card");
+const cards = document.querySelectorAll(".card");
 
 cards.forEach((card) => {
   card.addEventListener("mouseenter", () => {
@@ -9,4 +9,3 @@ cards.forEach((card) => {
     card.style.transform = "translateY(0) scale(1)";
   });
 });
-*/

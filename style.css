@@ -119,7 +119,7 @@ body {
 
 /* hover */
 .card:hover {
-  transform: translateY(-20px) scale(1.2);
+  transform: translateY(-20px) scale(1);
   box-shadow: 0 20px 35px rgba(0, 0, 0, 0.2);
   background: linear-gradient(270deg, #d2af45, #f5f078, #d1aa00);
   background-size: 900%;
@@ -140,7 +140,9 @@ body {
   display: block;
   transform: translateY(10);
   color: black;
-  font-family: "Courier New", Courier, monospace;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
 }
 
 @keyframes color {
